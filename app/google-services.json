@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "716988319299",
+    "firebase_url": "https://vkgrop-3e15e.firebaseio.com",
+    "project_id": "vkgrop-3e15e",
+    "storage_bucket": "vkgrop-3e15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716988319299:android:2da534b0633e5c33",
+        "android_client_info": {
+          "package_name": "test.mingorto.crackersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716988319299-ds5431rdkmhm9rchhjjlc11v1vvtjl0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTz_BfK4gztYqdVwyVErY0ABR3HQQ0ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">716988319299-ds5431rdkmhm9rchhjjlc11v1vvtjl0h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vkgrop-3e15e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">716988319299</string>
+    <string name="google_api_key" translatable="false">AIzaSyCdTz_BfK4gztYqdVwyVErY0ABR3HQQ0ag</string>
+    <string name="google_app_id" translatable="false">1:716988319299:android:2da534b0633e5c33</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCdTz_BfK4gztYqdVwyVErY0ABR3HQQ0ag</string>
+    <string name="google_storage_bucket" translatable="false">vkgrop-3e15e.appspot.com</string>
+    <string name="project_id" translatable="false">vkgrop-3e15e</string>
+</resources>

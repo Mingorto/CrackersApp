@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_account_box_black_36dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_account_box_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_insert_drive_file_black_36dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_insert_drive_file_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_message_black_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_message_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_audiotrack_black_36dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_audiotrack_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_link_black_36dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_link_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_arrow_back_black_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_ab_app.png",
+        "source": "C:\\Users\\tomfo\\.android\\build-cache\\d06d259dbc948a3d139d0a9906d5dcc91910f8ea\\output\\res\\drawable-mdpi\\ic_ab_app.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_close_white_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_ab_done.png",
+        "source": "C:\\Users\\tomfo\\.android\\build-cache\\d06d259dbc948a3d139d0a9906d5dcc91910f8ea\\output\\res\\drawable-mdpi\\ic_ab_done.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_done_white_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_attach_file_white_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_attach_file_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_play_circle_outline_white_48dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_local_movies_black_36dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_local_movies_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_add_white_24dp.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\drawable-mdpi\\ic_add_white_24dp.png"
+    }
+]

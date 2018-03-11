@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_content_update_entries">
+        <item>При открытии</item>
+        <item>Если пусто</item>
+        <item>Никогда</item>
+    </array>
+
+    <array name="pref_content_update_entry_values">
+        <item>pref_content_update_on_open</item>
+        <item>pref_content_update_if_empty</item>
+        <item>pref_content_update_never</item>
+    </array>
+
+    <array name="pref_push_notification_entries">
+        <item>Админ</item>
+        <item>Участники</item>
+        <item>Ответы на комментарии</item>
+    </array>
+</resources>

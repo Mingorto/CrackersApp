@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\crackers_logo.png",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\mipmap-hdpi\\crackers_logo.png"
+    }
+]

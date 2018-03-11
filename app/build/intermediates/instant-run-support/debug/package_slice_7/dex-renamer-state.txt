@@ -1,0 +1,4 @@
+#Fri Mar 09 22:48:37 MSK 2018
+base.0=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

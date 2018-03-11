@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Projects\\CrackersApp\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CrackersApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\tomfo\\.android\\build-cache\\c34f1e410343e9e211be3ae32a56e719735f7952\\output\\res\\xml\\provider_paths.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Mar 09 22:48:38 MSK 2018
+base.0=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddae9a62150048a13f2e16b2c6c5f780d873ca9f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_803294a861e90265648becb58ce77161b5b1cb3c\\classes.dex
+base.1=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_803294a861e90265648becb58ce77161b5b1cb3c
+file.0=D\:\\Projects\\CrackersApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddae9a62150048a13f2e16b2c6c5f780d873ca9f\\classes.dex
